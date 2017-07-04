@@ -109,6 +109,8 @@ Iz oddelka `Player` najprej na delovno površino potegnemo gradnik `On chat comm
 
 Poskrbimo, da v orodju MakeCode teče simulator, odpremo ukazno vrstico in vpišemo ukaz, ki smo ga izbrali za program. Pomočnik bo izvedel podani ukaz po navodilih. S kombiniranje različnih gradnikov lahko sestavimo tudi bolj kompleksne programe.
 
+Nekaj dodatnih primerov smo zbrali v [datoteki s primeri MakeCode programčkov](Minecraft_MakeCode_primeri.md).
+
 V dokumentaciji je na voljo še več primerov in dodatnih razlag:
 
 - preprost program za ustvarjanje živali: https://minecraft.makecode.com/getting-started
